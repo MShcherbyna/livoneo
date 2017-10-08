@@ -1,0 +1,16 @@
+$color: #854;
+
+p{
+    color: $color;
+}
+a {
+    color: red;
+}
+div {
+    a {
+        color: green;
+    }
+    b {
+        font-size: 14px;
+    } 
+} 
